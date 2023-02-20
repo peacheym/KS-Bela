@@ -4,9 +4,9 @@ This GitHub repository contains the Source code associated with my blog post dem
 
 ## Main Files
 
-- render.cpp | This file is the "main" file that runs on the Bela mini.
-- KarplusStrong.h | The header file for the KarplusStrong class.
-- KarplusStrong.cpp | The class file associated with the above.
+- [render.cpp](./render.cpp) | This file is the "main" file that runs on the Bela mini.
+- [KarplusStrong.h](./KarplusStrong.h) | The header file for the KarplusStrong class.
+- [KarplusStrong.cpp](./KarplusStrong.cpp) | The class file associated with the above.
 
 ## Full Blog Post
 
